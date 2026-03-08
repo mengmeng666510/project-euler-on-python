@@ -12,5 +12,6 @@ Official Website: [Project Euler](https://projecteuler.net)
 |--------|------|---------|
 | 001 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [solution](solutions_python/001.py) |
 | 002 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [solution](solutions_python/002.py) |
+| 003 | [Largest Prime Factor](https://projecteuler.net/problem=3) | [solution](solutions_python/003.py) |
 
 ---
