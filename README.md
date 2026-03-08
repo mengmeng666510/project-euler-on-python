@@ -11,5 +11,6 @@ Official Website: [Project Euler](https://projecteuler.net)
 | Problem | Title | Solution |
 |--------|------|---------|
 | 001 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | [solution](solutions_python/001.py) |
+| 002 | [Multiples of 3 or 5](https://projecteuler.net/problem=2) | [solution](solutions_python/002.py) |
 
 ---
